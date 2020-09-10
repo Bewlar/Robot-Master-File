@@ -1,0 +1,1 @@
+Testing of all components in sub folders. Testing for breaks in the files pointing to robot items.
